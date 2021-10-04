@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modern-portfolio/static/css/main.63a8d392.chunk.css",
+    "main.js": "/modern-portfolio/static/js/main.0cfaf365.chunk.js",
+    "main.js.map": "/modern-portfolio/static/js/main.0cfaf365.chunk.js.map",
+    "runtime-main.js": "/modern-portfolio/static/js/runtime-main.04102d96.js",
+    "runtime-main.js.map": "/modern-portfolio/static/js/runtime-main.04102d96.js.map",
+    "static/js/2.1b41be84.chunk.js": "/modern-portfolio/static/js/2.1b41be84.chunk.js",
+    "static/js/2.1b41be84.chunk.js.map": "/modern-portfolio/static/js/2.1b41be84.chunk.js.map",
+    "static/js/3.31253c73.chunk.js": "/modern-portfolio/static/js/3.31253c73.chunk.js",
+    "static/js/3.31253c73.chunk.js.map": "/modern-portfolio/static/js/3.31253c73.chunk.js.map",
+    "index.html": "/modern-portfolio/index.html",
+    "static/css/main.63a8d392.chunk.css.map": "/modern-portfolio/static/css/main.63a8d392.chunk.css.map",
+    "static/js/2.1b41be84.chunk.js.LICENSE.txt": "/modern-portfolio/static/js/2.1b41be84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04102d96.js",
+    "static/js/2.1b41be84.chunk.js",
+    "static/css/main.63a8d392.chunk.css",
+    "static/js/main.0cfaf365.chunk.js"
+  ]
+}
